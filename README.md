@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Aakriti+Roy!;Developer+%7C+Psychologist+%7C+Design+Enthusiast&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Aakriti!;Developer+%7C+AI%2FML+Enthusiast+%7C+Data+Analyst+%7C+Cloud+Learner+%7C+Design+Lover&center=true&width=1000&height=45&color=F75C7E&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
