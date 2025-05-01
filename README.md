@@ -1,11 +1,10 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Aakriti!;Developer+%7C+AI%2FML+Enthusiast+%7C+Data+Analyst+%7C+Cloud+Learner+%7C+Design+Lover&center=true&width=1000&height=45&color=F75C7E&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Aakriti!;Developer+%7C+AI%2FML+Enthusiast+%7C+Data+Analyst+%7C+Cloud+Learner+%7C+Design+Lover&center=true&width=1000&height=45&color=FFFFFF&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqbXVyaG15dHh2MGRhdDZicG43ZHV4c3Q3eTRoaHQxbHF1eHMyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" height="250" alt="coder girl animated gif">
+  <img src="https://media.giphy.com/media/hp3dmEfbQKOoY/giphy.gif" height="250" alt="coder girl animated gif">
 </p>
 
 <!--
