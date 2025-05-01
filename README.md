@@ -17,8 +17,7 @@
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritiroy) 
-[![email]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](mailto:aakriti1804@gmail.com) 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
