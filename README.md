@@ -13,7 +13,7 @@
 
 
 # About Me:
-🔭 Pronouns: She/Her<br>🌱 CSE student at KIIT (yes, I’m still surviving engineering) — currently in my final year and hunting for cool gigs!<br>👀 Passionate about community-driven growth and learning—love contributing and collaborating!<br>✔️ 2025 Goals: Build meaningful projects, crack exciting internships, and grow as a developer.<br>⚡ Fun fact: I wear multiple hats—developer, psychologist, and a design enthusiast—depending on the day!
+🔭 Pronouns: She/Her<br>🌱 CSE student at KIIT (yes, I’m still surviving engineering) — currently in my final year and hunting for cool gigs!<br>👀 Passionate about community-driven growth and learning—love contributing and collaborating!<br>✔️ 2025 Goals: Build meaningful projects, crack exciting internships, and grow as a developer.<br>⚡ Fun fact: I switch roles effortlessly—one day I’m debugging a model, the next I’m pitching a business idea, and sometimes I’m just designing for the soul.
 
 # Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://www.linkedin.com/in/aakritiroy)
