@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEfbQKOoY/giphy.gif" height="250" alt="coder girl animated gif">
+  <img src="[https://media.giphy.com/media/hp3dmEfbQKOoY/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47dfx2s71rwb8uixmwmylf8xpcw7nsos3zrt2w5wnf&ep=v1_gifs_search&rid=giphy.gif&ct=g)" height="250" alt="coder girl animated gif">
 </p>
 
 <!--
