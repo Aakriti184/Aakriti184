@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEfbQKOoY/giphy.gif" height="250" alt="coder girl animated gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="250" alt="coder girl animated gif">
 </p>
+
 
 <!--
 **Aakriti184/Aakriti184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
