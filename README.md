@@ -16,8 +16,8 @@
 🔭 Pronouns: She/Her<br>🌱 CSE student at KIIT (yes, I’m still surviving engineering) — currently in my final year and hunting for cool gigs!<br>👀 Passionate about community-driven growth and learning—love contributing and collaborating!<br>✔️ 2025 Goals: Build meaningful projects, crack exciting internships, and grow as a developer.<br>⚡ Fun fact: I wear multiple hats—developer, psychologist, and a design enthusiast—depending on the day!
 
 # Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritiroy) 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://www.linkedin.com/in/aakritiroy)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:aakriti1804@gmail.com)
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
