@@ -15,8 +15,9 @@
 # About Me:
 🔭 Pronouns: She/Her<br>🌱 CSE student at KIIT (yes, I’m still surviving engineering) — currently in my final year and hunting for cool gigs!<br>👀 Passionate about community-driven growth and learning—love contributing and collaborating!<br>✔️ 2025 Goals: Build meaningful projects, crack exciting internships, and grow as a developer.<br>⚡ Fun fact: I wear multiple hats—developer, psychologist, and a design enthusiast—depending on the day!
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritiroy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakriti1804@gmail.com) 
+# Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritiroy) 
+[![email]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg))](mailto:aakriti1804@gmail.com) 
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
